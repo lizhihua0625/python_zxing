@@ -48,27 +48,27 @@ mv javase-2.2.jar javase.jar # Rename <br>
 mvn install <br>
 git clone git://github.com/oostendo/python-zxing.git <br>
 
-这些步骤，经走下来，我测试通过的，是如此
+这些步骤，经走下来，我测试通过的，是如此 <br>
 
-mvn install -Dmaven.test.skip=true   #需要执行这个
-core.jar  javase.jar  jcommander-1.72.jar  复制到和你要执行的文件同级目录下面
-testZxing  是下载的别人的，试了，不好用，应该也需要改点什么，和我环境不匹配，应该如此
-可能是环境的问题，我还改了Swap
-[root@fantastic-hat-2 local]# free -h
-              total        used        free      shared  buff/cache   available
-Mem:           1.0G        305M         68M        952K        626M        527M
-Swap:          2.2G        532M        1.7G
+mvn install -Dmaven.test.skip=true   #需要执行这个 <br>
+core.jar  javase.jar  jcommander-1.72.jar  复制到和你要执行的文件同级目录下面 <br>
+testZxing  是下载的别人的，试了，不好用，应该也需要改点什么，和我环境不匹配，应该如此 <br>
+可能是环境的问题，我还改了Swap <br>
+[root@fantastic-hat-2 local]# free -h <br>
+              total        used        free      shared  buff/cache   available  <br>
+Mem:           1.0G        305M         68M        952K        626M        527M  <br>
+Swap:          2.2G        532M        1.7G <br>
 
-可能不需要这么大，但是请参考自己改一下，比较好
-请参考
-https://blog.csdn.net/zhbzhbzhbbaby/article/details/80810721
+可能不需要这么大，但是请参考自己改一下，比较好 <br>
+请参考 <br>
+https://blog.csdn.net/zhbzhbzhbbaby/article/details/80810721 <br>
 
-具体改了哪里，我不记得啦，没法整理，有需要的朋友，可以自己比较看看，如果不对，请指正，3162289690@qq.com
+具体改了哪里，我不记得啦，没法整理，有需要的朋友，可以自己比较看看，如果不对，请指正，3162289690@qq.com <br>
 
 
-git status
-git add README.md
-git commit -m "201905061014"
+git status <br>
+git add README.md  <br>
+git commit -m "201905061014"  <br>
 
 
 
