@@ -66,6 +66,9 @@ https://blog.csdn.net/zhbzhbzhbbaby/article/details/80810721
 具体改了哪里，我不记得啦，没法整理，有需要的朋友，可以自己比较看看，如果不对，请指正，3162289690@qq.com
 
 
+git status
+git add README.md
+git commit -m "201905061014"
 
 
 
