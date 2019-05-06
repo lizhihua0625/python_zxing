@@ -12,7 +12,9 @@ git remote add origin https://github.com/lizhihua0625/python_zxing.git
 git push -u origin master
 
 不废话，直接来说 我的目的是解析二维码
+
 https://github.com/zxing/zxing  是基于这个的
+
 我有试过window7下面，python3.6 成功
 java version "1.8.0_181"
 Java(TM) SE Runtime Environment (build 1.8.0_181-b13)
@@ -59,7 +61,7 @@ Swap:          2.2G        532M        1.7G
 请参考
 https://blog.csdn.net/zhbzhbzhbbaby/article/details/80810721
 
-具体改了哪里，我不记得啦，没法整理，有需要的朋友，可以自己比较看看，如果不对，请指正，3162289690@qq.com/google/zxing/core/2
+具体改了哪里，我不记得啦，没法整理，有需要的朋友，可以自己比较看看，如果不对，请指正，3162289690@qq.com
 
 
 
