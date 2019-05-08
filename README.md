@@ -65,6 +65,10 @@ https://blog.csdn.net/zhbzhbzhbbaby/article/details/80810721 <br>
 
 具体改了哪里，我不记得啦，没法整理，有需要的朋友，可以自己比较看看，如果不对，请指正，3162289690@qq.com <br>
 
+https://github.com/zxing/zxing.git  修改过的
+链接：https://pan.baidu.com/s/1_lE-Wmk8y2nGyqErRg2Xbw 
+提取码：b0wq 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 
 git status <br>
 git add README.md  <br>
